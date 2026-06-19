@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Cloud Platform Engineer with 4+ years of experience across interconnected fields such as Data Science, MLOps, ML and Cloud Platform Engineering.<br> 
+I'm a Cloud Platform Engineer with 4+ years of experience across interconnected fields such as Data Science, MLOps, ML, AI, Cloud Platform Engineering (Security).<br> 
 
 
 ## 🌐 Socials:
