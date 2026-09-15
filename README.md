@@ -1,6 +1,9 @@
 # 💫 About Me:
 I'm a Cloud Platform Engineer with 4+ years of experience across interconnected fields such as Cloud Platform Engineering (Security), AI Systems, MLOps, Data Science.<br> 
 
+I like building things and understanding how they work. Lately that means AI systems, what they do when no one's checking, and whether we can trust what they tell us.
+
+Interested in AI security, auditing models, mechanistic interpretability, behavioral versioning, and evaluation awareness. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sadhana-sainarayanan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sadhanasainarayanan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadhanasainarayanan@gmail.com) 
