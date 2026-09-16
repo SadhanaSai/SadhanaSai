@@ -1,29 +1,50 @@
-# 💫 About Me:
-I'm a Cloud Platform Engineer with 4+ years of experience across interconnected fields such as Cloud Platform Engineering (Security), AI Systems, MLOps, Data Science.<br> 
+<!-- auto-generated — do not edit directly. edit generate_readme.py or status.json -->
+
+Hi, I'm Sadhana.
+
+I'm a Cloud Platform Engineer with 4+ years of experience across interconnected fields such as Cloud Platform Engineering (Security), AI Systems, MLOps, Data Science.
 
 I like building things and understanding how they work. Lately that means AI systems, what they do when no one's checking, and whether we can trust what they tell us.
 
-Interested in AI security, auditing models, mechanistic interpretability, behavioral versioning, and evaluation awareness. 
+Interested in AI security, auditing models, mechanistic interpretability, behavioral versioning, and evaluation awareness. Just things I find worth digging into.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sadhana-sainarayanan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sadhanasainarayanan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sadhanasainarayanan@gmail.com) 
+---
 
-# 💻 Tech Stack:
-## Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
-## Hosting
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) 
-## Frameworks/Platforms/Libraries 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) 
-## Servers
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) 
-## DB
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) 
-##  ML/DL
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
-## VCS
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) 
-## Testing 
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=flat&logo=Puppeteer&logoSize=auto&logoColor=black) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) 
-## Others
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=flat&logo=opentelemetry&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat&logo=sonarqube&logoColor=4E9BCD) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
+### what's active
+
+**building** — tooling for agentic AI supply chain security
+
+**exploring** — Evaluation awareness and behavioral divergence in language models
+
+**next** — AgentLedger — cryptographically signed execution ledger for agents
+
+---
+
+### repos
+
+| repo | description | lang | last push |
+|---|---|---|---|
+| [amblyopia-visual-snow-train](https://github.com/SadhanaSai/amblyopia-visual-snow-train) | Dichoptic training + NOPT web app for amblyopia and visual s… | TypeScript | 2026-09-08 |
+| [Portfolio](https://github.com/SadhanaSai/Portfolio) | — | HTML | 2026-08-23 |
+| [spec-gaming-agents](https://github.com/SadhanaSai/spec-gaming-agents) | Demonstration Framework for Specification Gaming in Agentic … | Shell | 2026-08-04 |
+| [agent-context-hijack](https://github.com/SadhanaSai/agent-context-hijack) | — | Python | 2026-08-02 |
+| [behaviorprobe](https://github.com/SadhanaSai/behaviorprobe) | Behavioral regression testing across LLMs by task type | Python | 2026-06-02 |
+| [research-gap-finder](https://github.com/SadhanaSai/research-gap-finder) | arxiv research agent that analyses papers on a given topic a… | Python | 2026-05-27 |
+
+---
+
+### writing
+
+- [The Competence Illusion: How AI Makes You Feel Capable Even When You Aren’t](https://medium.com/@sadhanasainarayanan/the-competence-illusion-how-ai-makes-you-feel-capable-even-when-you-arent-9dd29e24b650?source=rss-c85e87f699c2------2) <sub>2026-07-11</sub>
+- [Version Control for ML Projects](https://medium.com/@sadhanasainarayanan/version-control-for-ml-projects-789ebd8bd47b?source=rss-c85e87f699c2------2) <sub>2023-11-13</sub>
+- [Understanding the ML Lifecycle](https://medium.com/@sadhanasainarayanan/understanding-the-ml-lifecycle-d2be683cb01c?source=rss-c85e87f699c2------2) <sub>2023-09-07</sub>
+
+---
+
+### elsewhere
+
+[LinkedIn](https://linkedin.com/in/sadhanasainarayanan) · [Medium](https://medium.com/@sadhanasainarayanan)
+
+Speaker at DEF CON 34 Cloud Village and AISF Vegas, 2026.</sub>
+
+<sub>last updated 2026-09-16 00:44 UTC</sub>
