@@ -8,6 +8,26 @@ MEDIUM_FEED = "https://medium.com/feed/@sadhanasainarayanan"
 STATUS_FILE = "status.json"
 OUTPUT_FILE = "README.md"
 
+TALKS = [
+    {
+        "event": "DEF CON 34 Cloud Village",
+        "topic": "Trust Fall: How Agentic AI Inherits Your Cloud's Worst IAM Habits",
+        "year": "2026"
+    },
+    {
+        "event": "AISF Vegas",
+        "topic": "How AI Agents Weaponize Compliance through Specification Gaming",
+        "year": "2026"
+    },
+]
+ 
+SKILLS = {
+    "languages":  "Python · Bash · R · JavaScript",
+    "cloud":      "AWS · Azure · GCP · Kubernetes · Docker · nginx",
+    "ai / ml":    "LangGraph · MCP · PyTorch · scikit-learn · MLflow · FastAPI",
+    "security":   "WAF · GuardDuty · OpenTelemetry · Splunk · Dynatrace",
+}
+
 TEMPLATE = """\
 <!-- auto-generated — do not edit directly. edit generate_readme.py or status.json -->
 
@@ -25,29 +45,41 @@ Just things I find worth digging into.
 
 ---
 
-### what's active
+### What's Active
 
 {status_block}
 
 ---
+ 
+### Conference Speaking
+ 
+{talks_block}
+ 
+---
+ 
+### skills
+ 
+{skills_block}
+ 
+---
 
-### repos
+### Repos
 
 {repos_block}
 
 ---
 
-### writing
+### Writing
 
 {posts_block}
 
 ---
 
-### elsewhere
+### Elsewhere
 
 [LinkedIn](https://linkedin.com/in/sadhanasainarayanan) · [Medium](https://medium.com/@sadhanasainarayanan)
 
-Speaker at DEF CON 34 Cloud Village and AISF Vegas, 2026.</sub>
+</sub>
 
 <sub>last updated {timestamp}</sub>
 """
@@ -156,6 +188,19 @@ def render_repos(repos):
 
     return "\n".join([header, divider] + rows)
 
+def render_talks():
+    lines = []
+    for t in TALKS:
+        lines.append(f"- **{t['event']}** ({t['year']}) — {t['topic']}")
+    return "\n".join(lines)
+ 
+ 
+def render_skills():
+    lines = []
+    for label, tools in SKILLS.items():
+        lines.append(f"`{label}`&nbsp;&nbsp;{tools}")
+    return "\n\n".join(lines)
+
 
 def render_posts(posts):
     if not posts:
@@ -179,6 +224,8 @@ def main():
     timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
     readme = TEMPLATE.format(
+        talks_block=render_talks(),
+        skills_block=render_skills(),
         status_block=render_status(status),
         repos_block=render_repos(repos),
         posts_block=render_posts(posts),
