@@ -165,9 +165,9 @@ def render_status(status):
         return "_nothing filed yet_"
     lines = []
     labels = {
-        "Building": "building",
-        "Exploring": "exploring",
-        "Next": "next"
+        "building": "Building",
+        "exploring": "Exploring",
+        "next": "Next"
     }
     for key, label in labels.items():
         val = status.get(key)
