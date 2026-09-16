@@ -59,7 +59,7 @@ Just things I find worth digging into.
  
 ---
  
-### skills
+### Skills
  
 {skills_block}
  
@@ -165,9 +165,9 @@ def render_status(status):
         return "_nothing filed yet_"
     lines = []
     labels = {
-        "building": "building",
-        "exploring": "exploring",
-        "next": "next"
+        "Building": "building",
+        "Exploring": "exploring",
+        "Next": "next"
     }
     for key, label in labels.items():
         val = status.get(key)
