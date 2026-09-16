@@ -10,7 +10,7 @@ Interested in AI security, auditing models, mechanistic interpretability, behavi
 
 ---
 
-### what's active
+### What's Active
 
 **building** — tooling for agentic AI supply chain security
 
@@ -19,8 +19,31 @@ Interested in AI security, auditing models, mechanistic interpretability, behavi
 **next** — AgentLedger — cryptographically signed execution ledger for agents
 
 ---
+ 
+### Conference Speaking
+ 
+- **DEF CON 34 Cloud Village** (2026) — Trust Fall: How Agentic AI Inherits Your Cloud's Worst IAM Habits
+- **AISF Vegas** (2026) — How AI Agents Weaponize Compliance through Specification Gaming
+ 
+---
+ 
+### skills
+ 
+`Languages`&nbsp;&nbsp;Python · Bash · R · JavaScript · Lua
 
-### repos
+`Cloud`&nbsp;&nbsp;AWS · Azure · GCP · Kubernetes · Docker · nginx
+
+`AI / ML`&nbsp;&nbsp;LangGraph · MCP · PyTorch · TensorFlow · scikit-learn · MLflow · FastAPI · Streamlit
+
+`Security`&nbsp;&nbsp;WAF · GuardDuty · OpenTelemetry · Splunk · Dynatrace · Prometheus · Grafana
+
+`Data`&nbsp;&nbsp;PostgreSQL · Elasticsearch · Pandas · NumPy · Plotly
+
+`DevOps`&nbsp;&nbsp;Git · GitHub Actions · Jenkins · Docker · SonarQube · Postman
+ 
+---
+
+### Repos
 
 | repo | description | lang | last push |
 |---|---|---|---|
@@ -33,7 +56,7 @@ Interested in AI security, auditing models, mechanistic interpretability, behavi
 
 ---
 
-### writing
+### Writing
 
 - [The Competence Illusion: How AI Makes You Feel Capable Even When You Aren’t](https://medium.com/@sadhanasainarayanan/the-competence-illusion-how-ai-makes-you-feel-capable-even-when-you-arent-9dd29e24b650?source=rss-c85e87f699c2------2) <sub>2026-07-11</sub>
 - [Version Control for ML Projects](https://medium.com/@sadhanasainarayanan/version-control-for-ml-projects-789ebd8bd47b?source=rss-c85e87f699c2------2) <sub>2023-11-13</sub>
@@ -41,10 +64,10 @@ Interested in AI security, auditing models, mechanistic interpretability, behavi
 
 ---
 
-### elsewhere
+### Elsewhere
 
 [LinkedIn](https://linkedin.com/in/sadhanasainarayanan) · [Medium](https://medium.com/@sadhanasainarayanan)
 
-Speaker at DEF CON 34 Cloud Village and AISF Vegas, 2026.</sub>
+</sub>
 
-<sub>last updated 2026-09-16 00:44 UTC</sub>
+<sub>last updated 2026-09-16 01:14 UTC</sub>
