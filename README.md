@@ -12,11 +12,7 @@ Interested in AI security, auditing models, mechanistic interpretability, behavi
 
 ### What's Active
 
-**building** — tooling for agentic AI supply chain security
 
-**exploring** — Evaluation awareness and behavioral divergence in language models
-
-**next** — AgentLedger — cryptographically signed execution ledger for agents
 
 ---
  
@@ -27,7 +23,7 @@ Interested in AI security, auditing models, mechanistic interpretability, behavi
  
 ---
  
-### skills
+### Skills
  
 `Languages`&nbsp;&nbsp;Python · Bash · R · JavaScript · Lua
 
@@ -70,4 +66,4 @@ Interested in AI security, auditing models, mechanistic interpretability, behavi
 
 </sub>
 
-<sub>last updated 2026-09-16 01:14 UTC</sub>
+<sub>last updated 2026-09-16 01:16 UTC</sub>
