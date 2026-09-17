@@ -172,7 +172,7 @@ def render_status(status):
     for key, label in labels.items():
         val = status.get(key)
         if val:
-            lines.append(f"**{label}** — {val}")
+            lines.append(f"**{label}** - {val}")
     return "\n\n".join(lines)
 
 
