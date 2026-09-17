@@ -12,7 +12,7 @@ Interested in AI security, auditing models, mechanistic interpretability, behavi
 
 ### What's Active
 
-**Building** — tooling for agentic AI supply chain security
+**Building** — Tooling for agentic AI supply chain security
 
 **Exploring** — Evaluation awareness and behavioral divergence in language models
 
@@ -70,4 +70,4 @@ Interested in AI security, auditing models, mechanistic interpretability, behavi
 
 </sub>
 
-<sub>last updated 2026-09-16 10:33 UTC</sub>
+<sub>last updated 2026-09-17 04:59 UTC</sub>
