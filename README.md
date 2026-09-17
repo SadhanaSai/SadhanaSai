@@ -16,7 +16,7 @@ Interested in AI security, auditing models, mechanistic interpretability, behavi
 
 **Exploring** — Evaluation awareness and behavioral divergence in language models
 
-**Next** — AgentLedger — cryptographically signed execution ledger for agents
+**Next** — AgentLedger - cryptographically signed execution ledger for agents
 
 ---
  
@@ -70,4 +70,4 @@ Interested in AI security, auditing models, mechanistic interpretability, behavi
 
 </sub>
 
-<sub>last updated 2026-09-17 04:59 UTC</sub>
+<sub>last updated 2026-09-17 05:00 UTC</sub>
