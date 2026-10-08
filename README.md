@@ -35,7 +35,7 @@ Interested in AI security, auditing models, mechanistic interpretability, behavi
 
 `AI / ML`&nbsp;&nbsp;LangGraph · MCP · PyTorch · TensorFlow · scikit-learn · MLflow · FastAPI · Streamlit
 
-`Security`&nbsp;&nbsp;WAF · GuardDuty · OpenTelemetry · Splunk · Dynatrace · Prometheus · Grafana
+`Security & Observability`&nbsp;&nbsp;WAF · GuardDuty · OpenTelemetry · Splunk · Dynatrace · Prometheus · Grafana
 
 `Data`&nbsp;&nbsp;PostgreSQL · Elasticsearch · Pandas · NumPy · Plotly
 
@@ -70,4 +70,4 @@ Interested in AI security, auditing models, mechanistic interpretability, behavi
 
 </sub>
 
-<sub>last updated 2026-10-07 12:23 UTC</sub>
+<sub>last updated 2026-10-08 12:32 UTC</sub>
