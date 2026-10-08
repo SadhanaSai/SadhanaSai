@@ -25,7 +25,7 @@ SKILLS = {
     "Languages":  "Python · Bash · R · JavaScript · Lua",
     "Cloud":      "AWS · Azure · GCP · Kubernetes · Docker · nginx",
     "AI / ML":    "LangGraph · MCP · PyTorch · TensorFlow · scikit-learn · MLflow · FastAPI · Streamlit",
-    "Security":   "WAF · GuardDuty · OpenTelemetry · Splunk · Dynatrace · Prometheus · Grafana",
+    "Security & Observability":   "WAF · GuardDuty · OpenTelemetry · Splunk · Dynatrace · Prometheus · Grafana",
     "Data":       "PostgreSQL · Elasticsearch · Pandas · NumPy · Plotly",
     "DevOps":     "Git · GitHub Actions · Jenkins · Docker · SonarQube · Postman",
 }
