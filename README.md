@@ -70,4 +70,4 @@ Interested in AI security, auditing models, mechanistic interpretability, behavi
 
 </sub>
 
-<sub>last updated 2026-10-24 10:02 UTC</sub>
+<sub>last updated 2026-10-25 10:27 UTC</sub>
