@@ -47,7 +47,7 @@ Interested in AI security, auditing models, mechanistic interpretability, behavi
 
 | repo | description | lang | last push |
 |---|---|---|---|
-| [Portfolio](https://github.com/SadhanaSai/Portfolio) | — | HTML | 2026-11-01 |
+| [Portfolio](https://github.com/SadhanaSai/Portfolio) | — | HTML | 2026-11-04 |
 | [ai-vulnscan](https://github.com/SadhanaSai/ai-vulnscan) | — | Python | 2026-09-13 |
 | [amblyopia-visual-snow-train](https://github.com/SadhanaSai/amblyopia-visual-snow-train) | Dichoptic training + NOPT web app for amblyopia and visual s… | TypeScript | 2026-09-08 |
 | [spec-gaming-agents](https://github.com/SadhanaSai/spec-gaming-agents) | Demonstration Framework for Specification Gaming in Agentic … | Shell | 2026-08-04 |
@@ -70,4 +70,4 @@ Interested in AI security, auditing models, mechanistic interpretability, behavi
 
 </sub>
 
-<sub>last updated 2026-11-03 13:21 UTC</sub>
+<sub>last updated 2026-11-04 13:32 UTC</sub>
