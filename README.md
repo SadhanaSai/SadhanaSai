@@ -47,8 +47,8 @@ Interested in AI security, auditing models, mechanistic interpretability, behavi
 
 | repo | description | lang | last push |
 |---|---|---|---|
+| [build-secure-ai-agents](https://github.com/SadhanaSai/build-secure-ai-agents) | — | — | 2026-11-25 |
 | [agent-dataflow-gate](https://github.com/SadhanaSai/agent-dataflow-gate) | Test your AI agent before each release. Block the release if… | — | 2026-11-23 |
-| [build-secure-ai-agents](https://github.com/SadhanaSai/build-secure-ai-agents) | — | — | 2026-11-23 |
 | [Portfolio](https://github.com/SadhanaSai/Portfolio) | — | HTML | 2026-11-04 |
 | [ai-vulnscan](https://github.com/SadhanaSai/ai-vulnscan) | — | Python | 2026-09-13 |
 | [amblyopia-visual-snow-train](https://github.com/SadhanaSai/amblyopia-visual-snow-train) | Dichoptic training + NOPT web app for amblyopia and visual s… | TypeScript | 2026-09-08 |
@@ -70,4 +70,4 @@ Interested in AI security, auditing models, mechanistic interpretability, behavi
 
 </sub>
 
-<sub>last updated 2026-11-24 16:45 UTC</sub>
+<sub>last updated 2026-11-25 16:33 UTC</sub>
